@@ -22,11 +22,11 @@ The slides will walk you through setting up Docker and Kubernetes, etc
 
 [http://redhatworkshops.github.io/slides/docker/generated/intro.html](http://redhatworkshops.github.io/slides/docker/generated/intro.html)
 
-[http://redhatworkshops.github.io/slides/docker/generated/intro.html](http://redhatworkshops.github.io/slides/docker/generated/day1.html)
+[http://redhatworkshops.github.io/slides/docker/generated/day1.html](http://redhatworkshops.github.io/slides/docker/generated/day1.html)
 
-[http://redhatworkshops.github.io/slides/docker/generated/intro.html](http://redhatworkshops.github.io/slides/docker/generated/day2.html)
+[http://redhatworkshops.github.io/slides/docker/generated/day2.html](http://redhatworkshops.github.io/slides/docker/generated/day2.html)
 
-[http://redhatworkshops.github.io/slides/docker/generated/intro.html](http://redhatworkshops.github.io/slides/docker/generated/day3.html)
+[http://redhatworkshops.github.io/slides/docker/generated/day3.html](http://redhatworkshops.github.io/slides/docker/generated/day3.html)
 
 See this blog [for more info on each of the days](http://blog.christianposta.com/kubernetes/3-day-docker-and-kubernetes-training/)
 
